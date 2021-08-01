@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Factorial Calculator</string>
+    <string name="textView_prompt">Enter the number</string>
+    <string name="editText_number">Enter a number greater than or equal to 0</string>
+    <string name="buttontext">Calculate the factorial</string>
+    <string name="errorMessage">ERROR! Number is smaller than ZERO!</string>
+</resources>
